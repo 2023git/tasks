@@ -1,4 +1,4 @@
-function getChar(param) {    
+function getChar(param) {     
     return String.fromCharCode(param)
 }
 
