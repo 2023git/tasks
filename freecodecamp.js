@@ -8,7 +8,7 @@ var myName;
 
 // 3 
 var a; 
-a = 7 
+a = 7  
 
  
 // 4
