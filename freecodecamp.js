@@ -5,7 +5,7 @@ multi-line comment */
 // 2
 var myName; 
   
-// 3  
+// 3   
 var a;
 a = 7 
 
