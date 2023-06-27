@@ -3,7 +3,7 @@
 multi-line comment */ 
 
 // 2
-var myName;
+var myName; 
 
 
 // 3
