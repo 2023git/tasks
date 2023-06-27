@@ -10,7 +10,7 @@ var a;
 a = 7 
 
 // 4
-var a
+var a 
 var b = a
 
 // 5
