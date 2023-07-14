@@ -3,7 +3,7 @@ function getChar(param) {
     return String.fromCharCode(param) 
 } 
     
-    
+     
 // 3       
 function greet(name) {      
   if (name === "Johnny") {  
