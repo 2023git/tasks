@@ -16,7 +16,7 @@ function greet(name) {
  
 // 3
 String.prototype.toAlternatingCase = function () {
-  let result = "";
+  let result = "";                      
   for (let i = 0; i < this.length; i++) {               
     const char = this[i];
     if (char === char.toUpperCase()) {
