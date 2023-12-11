@@ -14,7 +14,7 @@ function greet(name) {
 }             
                    
  
-// 3
+// 3     
 String.prototype.toAlternatingCase = function () {
   let result = "";                      
   for (let i = 0; i < this.length; i++) {               
