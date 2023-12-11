@@ -13,7 +13,7 @@ function greet(name) {
   return "Hello, " + name + "!";         
 }             
                                 
-                 
+                     
 // 3        
 String.prototype.toAlternatingCase = function () {
   let result = "";                      
