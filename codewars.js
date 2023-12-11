@@ -10,7 +10,7 @@ function greet(name) {
     return "Hello, my love!";                     
   }                 
                       
-  return "Hello, " + name + "!";     
+  return "Hello, " + name + "!";         
 }             
                           
  
