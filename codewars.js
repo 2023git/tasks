@@ -4,7 +4,7 @@ function getChar(param) {
 }      
                   
                      
-// 3                                                       
+// 3                                                                
 function greet(name) {                                            
   if (name === "Johnny") {                                 
     return "Hello, my love!";                                                                                 
