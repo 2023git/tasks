@@ -1,7 +1,7 @@
 // 1
 function getChar(param) {
     return String.fromCharCode(param)            
-}      
+}       
                   
                          
 // 3                                                                                                    
